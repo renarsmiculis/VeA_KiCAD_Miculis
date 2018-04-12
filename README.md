@@ -2,4 +2,3 @@
 
 This project is made for studies.
 
-Cloned twice
