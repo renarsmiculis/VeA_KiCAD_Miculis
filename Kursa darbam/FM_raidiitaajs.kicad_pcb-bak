@@ -5,7 +5,7 @@
     (no_connects 0)
     (area 59.868999 54.788999 112.851001 97.611001)
     (thickness 1.6)
-    (drawings 8)
+    (drawings 9)
     (tracks 91)
     (zones 0)
     (modules 20)
@@ -907,6 +907,9 @@
       (net 10 "Net-(A1-Pad1)"))
   )
 
+  (gr_text "FM TRANSCEIVER" (at 62.484 86.36 90) (layer F.SilkS)
+    (effects (font (size 1.5 1.5) (thickness 0.3) italic))
+  )
   (gr_line (start 112.776 54.864) (end 112.776 97.536) (layer Edge.Cuts) (width 0.15))
   (gr_text "Made by Renars" (at 71.12 58.42) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
